@@ -4,5 +4,9 @@
 
 - NVM
 - Dokcer
-
-https://github.com/FabioViscuso/auth-backend-course
+- jest
+- babel
+- testing
+- sequelize
+- express
+- sequelize cli
